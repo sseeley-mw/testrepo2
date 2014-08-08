@@ -1,0 +1,12 @@
+c:\users\steves\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\steves\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\steves\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\steves\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\steves\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\steves\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
